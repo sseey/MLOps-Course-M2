@@ -1,4 +1,4 @@
-# MLOps – Course
+# MLOps – Course - SMAIL Hicham MSI-26-DO-1-B SDV
 
 This repository contains the slides, labs, and project scaffold for a  MLOps training:
 
